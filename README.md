@@ -48,9 +48,9 @@ This is a personal portfolio website built using React and Vite. The site showca
 
 ## Deployment
 
-This project is deployed using GitHub Pages.
+This project is deployed using Netlify.
 
-Live Site: https://yourusername.github.io/your-repo-name/
+Live Site: https://marcellareactportfolio.netlify.app/
 
 ## Author
 
