@@ -1,18 +1,61 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This is a personal portfolio website built using React and Vite. The site showcases my background, skills, projects, and contact information in a responsive and professional layout. It was created as a final project and is designed to be used as a real portfolio beyond this course.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+* Multi-page React application using React Router
+* Home, About, Projects, and Contact pages
+* Responsive design for desktop, tablet, and mobile
+* Projects section with images, descriptions, and links
+* Contact form with validation
+* Clean and consistent UI design
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Technologies Used
 
-Note: This will impact Vite dev & build performances.
+* React
+* Vite
+* React Router DOM
+* CSS
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
+
+2. Navigate into the project folder:
+
+   ```bash
+   cd your-repo-name
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+## Deployment
+
+This project is deployed using GitHub Pages.
+
+Live Site: https://yourusername.github.io/your-repo-name/
+
+## Author
+
+Marcella Roberts
+
+## Notes
+
+This project demonstrates skills in front-end development, responsive design, and building user-friendly interfaces using React.
